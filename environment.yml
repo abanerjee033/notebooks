@@ -1,0 +1,13 @@
+name: covid-tracker
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - statsmodels
+  - seaborn
+  - matplotlib
+  - ipywidgets
+  - pandas
+  - partd
+  - bokeh
+  - dask
